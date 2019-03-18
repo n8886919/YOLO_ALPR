@@ -1,0 +1,10 @@
+# "*" matches anything except "/"
+**.pyc
+**/__pycache__
+**/logs
+**/backup
+**/test_image
+**/export
+**.params
+**.json
+**.avi
